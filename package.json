@@ -1,0 +1,29 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "sorting algorithms",
+  "main": "text.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jordanwa1947/js-sorting-algorthims.git"
+  },
+  "keywords": [
+    "sorting"
+  ],
+  "author": "Jordan Whitten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanwa1947/js-sorting-algorthims/issues"
+  },
+  "homepage": "https://github.com/jordanwa1947/js-sorting-algorthims#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "pryjs": "^1.0.3"
+  }
+}
